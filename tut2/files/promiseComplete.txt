@@ -1,0 +1,4 @@
+Hello, My name is vinay.
+
+
+ appending the text in promiseWrite file
